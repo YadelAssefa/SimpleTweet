@@ -14,6 +14,8 @@ import com.codepath.oauth.OAuthLoginActionBarActivity;
 public class LoginActivity extends OAuthLoginActionBarActivity<TwitterClient> {
 
 	SampleModelDao sampleModelDao;
+	// attempt
+	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
